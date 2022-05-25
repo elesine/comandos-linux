@@ -2,15 +2,19 @@
 
 Ir al Home
 ```bash
-cd~
+cd ~
 ```
-Ver la carpeta en la que estamos 
+Ver el directorio en la que estamos 
 ```bash
 pwd
 ```
-Crear una carpeta
+Crear un directorio
 ```bash
 mkdir nombre-de-la-carpeta
+```
+Borrar el directorio y todos los archivos contenidos recursivamente.
+```bash
+rm -r nombre-carpeta
 ```
 Cambio de directorio utilizando ruta relativa
 ```bash
