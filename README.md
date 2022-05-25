@@ -44,7 +44,7 @@ ______________________________________
 Abrir la terminal
 ```bash
 ctrl + alt + t
-
+```
 Limpiar la consola
 ```bash
 Ctrl + l
