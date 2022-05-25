@@ -44,6 +44,19 @@ Abrir el archivo
 ```bash
 cat archivo.txt
 ```
+Borrar archivo
+```bash
+rm archivo.txt
+```
+Ver los últimos comandos que ejecutamos y un número especial con elque podemos repetir su ejecución
+```bash
+history
+```
+Ejecutar el comando con el número que nos muestra el history
+```bash
+!35
+
+```
 ______________________________________
 Abrir la terminal
 ```bash
